@@ -1,0 +1,3 @@
+#minimize:hover, #close:hover, #expand:hover {
+    -fx-text-fill: grey;
+}
